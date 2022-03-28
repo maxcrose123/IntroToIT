@@ -7,22 +7,25 @@ header {
 
 p {
   font-size: 120%;
-}
-
-header {
-  font-size: 120%;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 h2 {
   font-size: 120%;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 ul {
   font-size: 120%;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 ol {
-  font-size: 120%;
+  font-size: 120%;margin-left: 100px;
+  margin-right: 100px;
 }
 
 nav {
