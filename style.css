@@ -21,8 +21,8 @@ nav {
 
 nav li {
   display: block;
-  float: right;
   width: 400px;
+  float: left;
   margin-right: 2px;
   border: 1px solid #000;
 }
