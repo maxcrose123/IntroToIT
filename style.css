@@ -16,14 +16,14 @@ header {
 
 nav {
   margin: 10px;
-  width: 1800px;
+  width: 900px;
 }
 
 nav li {
   display: block;
-  width: auto;
+  width: 300px;
   float: left;
-  margin-left: 2px;
+  margin-left: 20px;
   border: 1px solid #000;
 }
 
