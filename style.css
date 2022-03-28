@@ -23,7 +23,7 @@ nav li {
   display: block;
   width: 120px;
   float: right;
-  margin: 2px;
+  margin-right: 2px;
   border: 1px solid #000;
 }
 
