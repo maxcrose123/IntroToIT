@@ -8,7 +8,6 @@ body {
 
 header {
   background-color: #666;
-  padding: 30px;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -16,7 +15,7 @@ header {
 
 nav {
   margin: 10px;
-  width: 900px;
+  width: 1011px;
 }
 
 nav li {
@@ -51,11 +50,4 @@ footer {
   padding: 10px;
   text-align: center;
   color: white;
-}
-
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
 }
