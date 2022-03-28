@@ -29,7 +29,9 @@ nav li {
   display: inline;
 }
 
-
+li {
+  display: inline;
+}
 
 section::after {
   content: "";
