@@ -22,7 +22,7 @@ nav {
   display: inline;
 }
 
-nav ul {
+nav li {
   padding: 20px;
   float: middle;
   display: block;
