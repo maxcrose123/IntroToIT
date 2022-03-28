@@ -20,6 +20,7 @@ nav {
   height: 100px;
   background: #ccc;
   text-decoration: none;
+  display: inline;
 }
 
 nav ul {
