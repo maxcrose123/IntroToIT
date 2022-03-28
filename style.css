@@ -7,22 +7,22 @@ header {
 
 p {
   font-size: 120%;
-  margin: 100px;
 }
 
 h2 {
   font-size: 120%;
-  margin: 100px;
 }
 
 ul {
   font-size: 120%;
-  margin-left: 100px;
 }
 
 ol {
   font-size: 120%;
-  margin-left: 100px;
+}
+
+body {
+  margin: 0px 50px;
 }
 
 nav {
