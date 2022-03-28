@@ -20,7 +20,7 @@ nav {
 
 nav li {
   display: block;
-  width: 150px;
+  width: 200px;
   float: left;
   margin-left: 2px;
   border: 1px solid #000;
@@ -50,11 +50,4 @@ footer {
   padding: 10px;
   text-align: center;
   color: white;
-}
-
-article {
-  float: left;
-  padding: 20px;
-  width: 70%;
-  height: 300px;
 }
