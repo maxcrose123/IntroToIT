@@ -23,16 +23,16 @@ body {
 }
 
 nav {
-  margin: 10px;
   width: 2000px;
 }
 
 nav li {
   display: block;
-  width: 200px;
+  width: 199px;
   float: left;
   margin-left: 2px;
   border: 1px solid #000;
+  text-align: center;
 }
 
 nav a {
